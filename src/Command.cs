@@ -19,7 +19,7 @@ public sealed class Command : IExternalCommand
             return Result.Cancelled;
         }
 
-        var status = ReleaseMetadata.Resolve(null, "selective-transfer", "0.1.0-test.1");
+        var status = ReleaseMetadata.Resolve(null, "selective-transfer", "0.1.0-test.2");
 
         try
         {
