@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "packages": [
+    {
+      "id": "robim-selective-transfer",
+      "name": "선택적 표준 전송",
+      "host": "revit",
+      "path": "RoBIM.Feature.SelectiveTransfer.bundle",
+      "folder": "RoBIM.Feature.SelectiveTransfer.bundle",
+      "distribution": "release",
+      "asset": "RoBIM.Feature.SelectiveTransfer-Revit2026.zip",
+      "description": "선택적 표준 전송 · 독립 Add-in",
+      "channel": "test",
+      "moduleId": "selective-transfer",
+      "commandId": "run"
+    }
+  ]
+}
